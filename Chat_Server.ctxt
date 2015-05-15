@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ the\ main\ method\ that\ creates\ the\ server\ socket\r\n
+comment1.params=x
+comment1.target=void\ AddUserName(java.net.Socket)
+comment1.text=\r\n\ Adds\ the\ username\ to\ the\ client\ list\r\n
+numComments=2

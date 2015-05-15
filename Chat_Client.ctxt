@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Chat_Client(java.net.Socket)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ creates\ the\ client\ socket,\ input\ output\ for\ client(user),\ connects\ and\ disconnects\ from\ the\ server\r\n
+comment2.params=
+comment2.target=void\ disconnect()
+comment2.text=\r\n\ disconnects\ client\ from\ the\ server\r\n
+comment3.params=
+comment3.target=void\ checkStream()
+comment3.text=\r\n\ checks\ input\ stream\r\n
+comment4.params=
+comment4.target=void\ recieve()
+comment4.text=\r\n\ recieves\ input\ from\ a\ user\r\n
+comment5.params=x
+comment5.target=void\ send(java.lang.String)
+comment5.text=\r\n\ sends\ the\ message\ from\ the\ input\ stream\r\n
+numComments=6
